@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="radio"] {
+    margin: 10px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    background-color: coral;
+    margin-top: 0px;
+}
+#resultado {
+    font-weight: bold;
+    font-size: 18px;
+    background-color: aqua;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    align-items: center;
+}
+
