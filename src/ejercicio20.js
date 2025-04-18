@@ -35,3 +35,4 @@ capitales.addEventListener("change", () => {
 
   console.log(`Capital: ${capitalSeleccionada}, País: ${paisCorrespondiente}`);
 });
+//Final del codigo
