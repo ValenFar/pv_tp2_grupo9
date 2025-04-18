@@ -1,0 +1,29 @@
+/* Estilos para que se vea mas bonito */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2f3;
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  h1 {
+    color: #2c3e50;
+  }
+  
+  label, select {
+    font-size: 18px;
+    margin: 10px;
+  }
+  
+  select {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  select:focus {
+    border-color: #3498db;
+    outline: none;
+  }
+  
