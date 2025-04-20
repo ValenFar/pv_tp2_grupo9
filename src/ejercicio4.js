@@ -7,4 +7,4 @@ let perimetro = 4 * lado;
 
 // Mostrar resultados
 console.log("Area del cuadrado: " + area);
-console.log("Perimetro del cuadrado: " + perimetro);
+console.log("Perimetro del cuadrado; " + perimetro);
